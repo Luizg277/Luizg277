@@ -1,5 +1,5 @@
 ## Hi there 👋
-<h2 align="left">Hi 👋! My name is Luis Gabriel and I'm a ..., from ....</h2>
+<h2 align="left">Hi 👋! My name is Luis Gabriel and I'm a programador, from Brazil</h2>
 
 ###
 
